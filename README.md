@@ -25,8 +25,8 @@ Template Files
 
 Get the latest ProcessWire install package. Before you install, replace the folders
 
-/site-default/install
-/site-default/templates
+- /site-default/install
+- /site-default/templates
 
 with the ones from this blank install. Proceed with the installation as usual.
 
